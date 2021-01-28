@@ -19,5 +19,4 @@
     <TextField fx:id="textField"
                promptText="Введи текст" GridPane.rowIndex="1" GridPane.columnIndex="0"
                onAction="#clickBtnSend"/>
-
 </GridPane>

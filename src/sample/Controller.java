@@ -15,7 +15,6 @@ public class Controller {
     public void clickBtn1(ActionEvent actionEvent) {
         System.out.println("java");
     }
-
     public void clickBtnSend(ActionEvent actionEvent) {
         textArea.appendText(textField.getText() + "\n");
         textField.clear();
