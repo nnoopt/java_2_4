@@ -1,0 +1,27 @@
+.root {
+    -fx-font-size: 16;
+    -fx-background-image: url("/image/b.jpg");
+    -fx-background-size: 100% 100%;
+
+}
+
+.button {
+    -fx-background-color: #3cff00;
+}
+
+.button:hover, #addBtn:hover {
+    -fx-background-color: #ff00ea;
+}
+
+#addBtn {
+    -fx-background-color: #76ff50;
+}
+
+.text-area {
+    -fx-control-inner-background: #3cff00;
+    -fx-text-fill: #42b71f;
+    -fx-highlight-fill: aquamarine;
+    -fx-highlight-text-fill: green;
+    -fx-font-style: italic;
+    -fx-font-weight: bold;
+}
